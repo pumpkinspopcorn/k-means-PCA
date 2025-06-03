@@ -54,7 +54,7 @@ From the above graph figures E and G, it is observed that Generosity and Percept
 
 ## Summary and Justification
 
-In conclusion, clusters were formed for different attributes and it is observed that Social Support, Healthy Life Expectancy, Freedom to make life choices are more similar factors in determining the order of the happiest country in the world and how happy the country is.
+In conclusion, clusters were formed for different attributes and it is observed that Social Support, Healthy Life Expectancy, Freedom to make life choices are more similar factors in determining the order of the happiest country in the world and how happy the country is. For a clear view, you can always give  a single letter keyword to the column names in .csv file.
 
 
 
